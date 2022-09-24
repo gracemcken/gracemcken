@@ -20,9 +20,9 @@
 ### :woman_technologist: About Me : 
 I'm a coding student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ireland, studying with the Code Institute!
 
-- :nerd_face: I’m hoping to work as a Full Stack Developer in the future!
+- :nerd_face: I’m currently finishing up my JavaScript portfolio project, and then onto danger noodle (uh, Python I mean) territory.
 
-- :brain: I love learning new things which is why coding appeals to me! There's always something else to learn and improve.
+- :brain: I love learning new things which is why coding appeals to me! There's always something else to learn and improve. No one knows everything and if they say they do then they're lying.
 
 - :video_game: I spend most of my free time playing video games and cuddling my dog, because let's be honest, there's nothing better than doggo cuddles.
 
