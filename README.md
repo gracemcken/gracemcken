@@ -48,6 +48,7 @@ I'm a coding student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracemcken)](https://github.com/gracemcken/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracemcken&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@gracemcken's Holopin board](https://holopin.io/api/user/board?user=gracemcken)](https://holopin.io/@gracemcken)
 
 
 <!---
