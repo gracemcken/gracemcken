@@ -20,8 +20,7 @@
 ### :woman_technologist: About Me : 
 I'm a coding student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ireland, studying with the Code Institute!
 
-- :nerd_face: Working on my python project at the moment. Me and python have a love/hate relationship, so we'll see where we end up by the end of this!
-
+- :nerd_face: Working on project 4 of 5 for my Code Institute course.
 - :brain: I love learning new things which is why coding appeals to me! There's always something else to learn and improve. No one knows everything and if they say they do then they're lying.
 
 - :video_game: I spend most of my free time playing video games and cuddling my dog, because let's be honest, there's nothing better than doggo cuddles.
@@ -39,6 +38,8 @@ I'm a coding student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   title="JavaScript" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/>
+          
           
 </div>
 
