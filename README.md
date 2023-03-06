@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
+  <img src="https://i.imgur.com/mmT0LDZ.png"/>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/grace-mckenna-bb7066111/">
